@@ -34,8 +34,6 @@ let handleDelete=(e)=>{
   }); 
   
 }
-
-// console.log(todo)
  
     return (
         <>
